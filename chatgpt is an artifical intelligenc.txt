@@ -1,0 +1,11 @@
+chatgpt is an artifical intelligence (AI) chat bot developed by open AI and released in 30 November 2022
+ generative pre-trained
+
+A chatbot is an Ai based Software desgined to interact with human in their natural language 
+
+minimal spanning tree 
+A minimal spanning tree is minimum weight spanning tree is a subset of the edges of a connected edge-weighted undirected graph that
+connected all the vertics together without cycle and with the minimum possible total edge weight
+
+prim algorith 
+prim algorithm is a greedy algorithm that is used to find the minimum spannning tree from a graph
